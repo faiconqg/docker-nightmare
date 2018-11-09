@@ -1,9 +1,9 @@
 {
   "name": "nightmare-docker",
-  "version": "0.0.2",
-  "author": "Ivan Vanderbyl",
+  "version": "0.0.3",
+  "author": "Thiago Lins",
   "dependencies": {
-    "nightmare": "^2.9.1"
+    "nightmare": "^3.0.1",
   },
   "license": "MIT",
   "private": true
